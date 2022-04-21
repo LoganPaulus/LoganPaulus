@@ -1,6 +1,12 @@
 ### Hello 👋
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=LoganPaulus&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganPaulus&langs_count=5&theme=tokyonight)]()
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+
+</a>
 
 ## 📫 Discord: Swaglord69420#8478
 
