@@ -3,7 +3,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganPaulus&langs_count=5&theme=tokyonight)]()
 
 ## 📫 How to reach me
-Discord: Swaglord69420#8478
+## Discord: Swaglord69420#8478
 <!--
 **LoganPaulus/LoganPaulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
